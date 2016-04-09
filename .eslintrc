@@ -1,0 +1,6 @@
+{
+"extends":"eslint:recommmended",
+"env":{
+  "browser": true
+  }
+}
