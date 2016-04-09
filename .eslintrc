@@ -1,6 +1,12 @@
 {
-"extends":"eslint:recommmended",
-"env":{
-  "browser": true
+  "extends": "eslint:recommended",
+  "env": {
+    "browser": true
+  },
+  "globals": {
+    "angular": true
+  },
+  "rules": {
+    "no-console": 0
   }
 }
